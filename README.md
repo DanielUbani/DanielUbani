@@ -37,8 +37,10 @@ I'm a passionate **Full-Stack Developer** and **Mobile App Developer** based in 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DanielUbani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=DanielUbani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
